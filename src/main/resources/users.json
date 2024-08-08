@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Shreedhar",
+    "phone": "9738632032",
+    "email": "shreedharbhat264@gmail.com",
+    "address": "#11, 15th cross, Jakkur, Bengaluru"
+  },
+  {
+    "id": 2,
+    "name": "Mahesh",
+    "phone": "9738632033",
+    "email": "mahesh@gmail.com",
+    "address": "#17, 16th cross, Jakkur, Bengaluru"
+  }
+]
